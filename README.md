@@ -2,4 +2,7 @@
 I'm learning GitHub first time.
 title
 programs
+funtion
+howtouse
+
 
